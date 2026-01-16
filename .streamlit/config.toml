@@ -4,9 +4,6 @@ showErrorDetails = false
 [logger]
 level = " error\
 
-[client.toolbarMode]
-mode = \minimal\
-
 [fileWatcher]
 logWatcherMessage = false
 
